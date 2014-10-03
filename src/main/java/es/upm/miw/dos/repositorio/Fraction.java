@@ -25,7 +25,7 @@ public int getDenominator() {
 public double decimal() {
     return (double) numerator / denominator;
 }
-public metodoAgregadoEnRemoto(){
+public void metodoAgregadoEnRemoto(){
 	
 	
 	
