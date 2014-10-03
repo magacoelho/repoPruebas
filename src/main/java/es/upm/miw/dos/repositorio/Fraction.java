@@ -27,7 +27,7 @@ public double decimal() {
 }
 public void metodoAgregadoEnRemoto(){
 	
-	
+// mas cosas	
 	
 }
 
