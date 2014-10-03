@@ -31,4 +31,11 @@ public void metodoAgregadoEnRemoto(){
 	
 }
 
+public void  cammioLocal(){
+	
+	
+	
+	
+}
+
 }
